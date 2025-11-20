@@ -85,7 +85,7 @@ https://www.analog.com/jp/resources/design-tools-and-calculators/ltspice-simulat
 
 ### 2. ダウンロードページの構成
 
-![ダウンロードページ](figure/01_download_page.png)
+![ダウンロードページ](01_figure/01_download_page.png)
 
 **図: Analog Devices LTspiceダウンロードページ**
 
@@ -126,7 +126,7 @@ https://www.analog.com/jp/resources/design-tools-and-calculators/ltspice-simulat
 
 ### ステップ2: セットアップウィザードの開始
 
-![セットアップウィザード](figure/02_welcome.png)
+![セットアップウィザード](01_figure/02_welcome.png)
 
 **図: LTspice Setup Wizard 開始画面**
 
@@ -141,7 +141,7 @@ The Setup Wizard will install LTspice on your computer. Click
 
 ### ステップ3: ライセンス契約への同意
 
-![ライセンス契約](figure/03_license.png)
+![ライセンス契約](01_figure/03_license.png)
 
 **図: End-User License Agreement 画面**
 
@@ -166,7 +166,7 @@ Norwood, Massachusetts, USA 02062 ("Analog Devices") and you
 
 ### ステップ4: インストール先の選択
 
-![インストール先選択](figure/04_install_folder.png)
+![インストール先選択](01_figure/04_install_folder.png)
 
 **図: Select Installation Folder 画面**
 
@@ -201,7 +201,7 @@ C:\Program Files\ADI\LTspice
 
 ### ステップ6: インストール完了
 
-![インストール完了](figure/05_complete.png)
+![インストール完了](01_figure/05_complete.png)
 
 **図: Completing the LTspice Setup Wizard 画面**
 
@@ -236,7 +236,7 @@ Click the "Finish" button to exit the Setup Wizard.
 
 ### 2. LTspiceメイン画面の確認
 
-![LTspiceメイン画面](figure/06_ltspice_main.png)
+![LTspiceメイン画面](01_figure/06_ltspice_main.png)
 
 **図: LTspice起動画面（Draft1）**
 
